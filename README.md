@@ -174,7 +174,7 @@ START
 # 1. Buka Command Prompt atau PowerShell
 
 # 2. Download atau clone repository
-git clone https://github.com/username/bitcoin-legacy-recovery.git
+git clone https://github.com/syabiz/bitcoin-legacy-recovery.git
 cd bitcoin-legacy-recovery
 
 # 3. Buat virtual environment (opsional)
@@ -190,7 +190,7 @@ pip install -r requirements.txt
 # 1. Buka terminal
 
 # 2. Clone repository
-git clone https://github.com/username/bitcoin-legacy-recovery.git
+git clone https://github.com/syabiz/bitcoin-legacy-recovery.git
 cd bitcoin-legacy-recovery
 
 # 3. Buat virtual environment
