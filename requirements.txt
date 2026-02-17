@@ -1,0 +1,2 @@
+ecdsa==0.18.0     # Library kurva elliptic SECP256k1
+base58==2.1.1     # Encoding/decoding Base58Check
