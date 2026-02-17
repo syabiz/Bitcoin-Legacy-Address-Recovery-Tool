@@ -663,11 +663,11 @@ in the Software without restriction...
 
 Jika tool ini bermanfaat untuk edukasi dan pembelajaran Anda, donasi sangat dihargai:
 
-**Bitcoin (BTC):** `1DonationAddressHere111111111111111111111`
+**Bitcoin (BTC):** `bc1qn6t8hy8memjfzp4y3sh6fvadjdtqj64vfvlx58`
 
-**Ethereum (ETH):** `0xDonationAddressHere1111111111111111111`
+**Ethereum (ETH):** `0x512936ca43829C8f71017aE47460820Fe703CAea`
 
-**PayPal:** `donation@email.com`
+**PayPal:** `syabiz@yandex.com`
 
 Donasi akan digunakan untuk pengembangan fitur baru, maintenance server, dan dokumentasi.
 
@@ -676,9 +676,8 @@ Donasi akan digunakan untuk pengembangan fitur baru, maintenance server, dan dok
 ## KONTAK
 
 - **GitHub Issues:** https://github.com/username/bitcoin-legacy-recovery/issues
-- **Email:** support@bitcoinrecoverytool.com
-- **Twitter:** @BTCrecoverytool
-- **Discord:** https://discord.gg/bitcoinrecovery
+- **Email:** syabiz@yandex.com
+- **Twitter:** @syabiz
 
 ---
 
